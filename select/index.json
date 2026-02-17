@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "チェリーポップ",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-02-17T12:25:23.307050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チェリーポップ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_チェリーポップ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チェリーポップ (Cherry POP)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_チェリーポップ_(Cherry_POP)_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チェリーポップ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_チェリーポップ_DECO_27.txt"
+    }
+  ]
+}
